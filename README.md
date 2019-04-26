@@ -1,2 +1,2 @@
 # DataStructuresJava
-Here I publish all of my personally implemented data structures.
+Here I will publish all of my personally implemented data structures programmed in Python.
